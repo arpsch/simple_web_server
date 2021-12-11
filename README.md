@@ -13,7 +13,7 @@
    $ go run client.go -port=<the same port as the server is listening>
     [defaults to :8080]
 
-/***************************************************************/
+//
 I have tried to finish all the bonus requirements along with the mandatory ones
 a. Basic Auth with hardcoded username-idt and password-idt123
 b. GetUsers endpoint
